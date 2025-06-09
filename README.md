@@ -2,7 +2,7 @@ Blood Bank Management System (Updated Version) - README
 --------------------------------------------------
 
 ### Project Overview
-This is the updated version of my Blood Bank Management System project, developed in Apache NetBeans IDE with JDK 24. It helps manage blood donors and stock with improvements like validating blood groups, normalizing names, logging actions, and tracking donor eligibility. This version fixes seven gaps from the unupdated version, such as no validation and no feedback, making it safer and more reliable.
+This is the updated version of my Blood Bank Management System project, developed in Apache NetBeans IDE with JDK 24. It helps manage blood donors and stock with improvements like validating blood groups, normalizing names, logging actions, and tracking donor eligibility. This version fixes six gaps and also one additional from the unupdated version, such as no validation and no feedback, making it safer and more reliable.
 
 ### GitHub Repository
 - Repository: https://github.com/GroupX5/Updated_BloodBank_System
