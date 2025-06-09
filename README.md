@@ -41,7 +41,8 @@ Follow these steps to set up and run the project on your computer:
    - **Option 1: Using NetBeans**:
      - Open NetBeans with JDK 24.
      - Import the project by dragging the Source_Code/ files into a new project or using File > Open Project.
-     - Right-click Login.java and select "Run File."
+     - Right-click Login.java and select "Run File."   Use   Username: Admin
+                                                             Password: Admin123
    - **Option 2: Using the JAR File**:
      - Navigate to the dist/ folder in a terminal.
      - Run: `java -jar BloodBankManagementSystem.jar`
